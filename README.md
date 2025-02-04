@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @vishnu v
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning javascript frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my GitHub! I'm a MERN Stack Developer with expertise in **JavaScript, Node.js, React **, and more. I love solving problems through code, building scalable web applications, and continuously learning new technologies to enhance my skills.
 
-<!---
-vishnustackup/vishnustackup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Continuosly  Learning
+
+🛠️ Technologies & Tools I Use:
+-------------------------------------------------------------------------------------------
