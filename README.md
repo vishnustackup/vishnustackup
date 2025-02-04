@@ -2,5 +2,4 @@ Welcome to my GitHub! I'm a MERN Stack Developer with expertise in **JavaScript,
 
 🌱 Continuosly  Learning
 
-🛠️ Technologies & Tools I Use:
--------------------------------------------------------------------------------------------
+
